@@ -1,2 +1,2 @@
 # react-native-navigation-exemple
-Exemplo de como utilizar o componente react-navigation
+#### Documentação disponível em: [https://reactnavigation.org](https://reactnavigation.org)
